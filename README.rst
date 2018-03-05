@@ -5,11 +5,11 @@ MongoLog: Centralized logging made simple using MongoDB
     :target: https://travis-ci.org/puentesarrin/mongodb-log
     :alt: Travis CI status
 
-.. image:: https://pypip.in/v/mongolog/badge.png
+.. image:: https://img.shields.io/pypi/v/mongolog.svg
     :target: https://pypi.python.org/pypi/mongolog
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/mongolog/badge.png
+.. image:: https://img.shields.io/pypi/dm/mongolog.svg
     :target: https://pypi.python.org/pypi/mongolog
     :alt: Number of PyPI downloads
 
